@@ -1,0 +1,196 @@
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\HeatMapViewer.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\HeatMapViewer.pdb
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.DefaultPlugins.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.exe
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.Imaging.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.InteropCore.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.VirtualSlideAccess.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.xml
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.xml
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.DefaultPlugins.xml
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.xml
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.Imaging.xml
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\HeatMapViewer.dll
+C:\Users\lohmanns\SkyDrive\Dokumente\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\HeatMapViewer.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\HeatMapViewer.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\HeatMapViewer.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.exe
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.Imaging.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.InteropCore.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#AccessoryExtension.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.VirtualSlideAccess.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Core.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.Resources.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Adapters.DiscreteGeometry.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\AForge.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\AForge.Math.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.Imaging.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.InteropCore.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#AccessoryExtension.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#AccessoryExtension.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.VirtualSlideAccess.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Core.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Geometry.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.Resources.xml
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Adapters.DiscreteGeometry.pdb
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\HeatMapViewer.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\HeatMapViewer.dll
+C:\Users\Sebastian Lohmann\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\HeatMapViewer.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.exe
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.Imaging.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.InteropCore.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#AccessoryExtension.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.VirtualSlideAccess.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Core.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.Resources.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Adapters.DiscreteGeometry.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\AForge.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\AForge.Math.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#Accessory.Imaging.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.InteropCore.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#AccessoryExtension.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.VirtualSlideAccess.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Core.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Core.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Geometry.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\VMscope.Resources.xml
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Adapters.DiscreteGeometry.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\HeatMapViewer.csprojResolveAssemblyReference.cache
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\Users\lohmanns\Google Drive\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\obfuscation.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\obfuscation.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Core.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#AccessoryExtension.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Adapters.Accord.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.Statistics.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.Math.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Core.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Core.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Geometry.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\#AccessoryExtension.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Glaukopis.Adapters.Accord.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.Statistics.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.Math.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\HeatMapViewer.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.Imaging.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.Imaging.xml
+C:\Users\Sebastian Lohmann\Documents\work\charite\Glaukopis.CognitionMasterPlugins\HeatMapViewer\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.Core.dll
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.Core.xml
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\obj\Debug\HeatMapViewer.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\Users\Sebastian Lohmann\Documents\work\htw\MIP.WS1617\TissueClassification\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.Core.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.Geometry.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\#AccessoryExtension.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.Core.xml
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\bin\Debug\Glaukopis.Geometry.xml
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+Z:\Dokumente\MA\MIP\MIP\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.Core.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\#AccessoryExtension.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.Core.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\obj\Debug\HeatMapViewer.csproj.CoreCompileInputs.cache
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\obj\Debug\HeatMapViewer.csproj.CopyComplete
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.Core.dll
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.Geometry.dll
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\dev\MIP\HeatMapViewer\bin\Debug\#AccessoryExtension.dll
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.Core.xml
+C:\dev\MIP\HeatMapViewer\bin\Debug\Glaukopis.Geometry.xml
+C:\dev\MIP\HeatMapViewer\obj\Debug\HeatMapViewer.csproj.CoreCompileInputs.cache
+C:\dev\MIP\HeatMapViewer\obj\Debug\HeatMapViewer.csproj.CopyComplete
+C:\dev\MIP\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.dll
+C:\dev\MIP\HeatMapViewer\obj\Debug\Glaukopis.CognitionMasterPlugins.HeatMapViewer.pdb

@@ -1,0 +1,38 @@
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\BudDetection.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\BudDetection.pdb
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\#AccessoryExtension.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\Glaukopis.Core.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\Glaukopis.DiscreteGeometry.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\Glaukopis.Geometry.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\Glaukopis.Core.xml
+Z:\Dokumente\MA\MIP\MIP\BudDetection\bin\Debug\Glaukopis.Geometry.xml
+Z:\Dokumente\MA\MIP\MIP\BudDetection\obj\Debug\BudDetection.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetection\obj\Debug\BudDetection.pdb
+Z:\Dokumente\MA\MIP\MIP\BudDetection\obj\Debug\BudDetection.csprojResolveAssemblyReference.cache
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\BudDetection.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\BudDetection.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\#AccessoryExtension.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.Core.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.Core.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\obj\Debug\BudDetection.csproj.CoreCompileInputs.cache
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\obj\Debug\BudDetection.csproj.CopyComplete
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\obj\Debug\BudDetection.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\obj\Debug\BudDetection.pdb
+C:\dev\MIP\BudDetection\bin\Debug\BudDetection.dll
+C:\dev\MIP\BudDetection\bin\Debug\BudDetection.pdb
+C:\dev\MIP\BudDetection\bin\Debug\#AccessoryExtension.dll
+C:\dev\MIP\BudDetection\bin\Debug\Glaukopis.Core.dll
+C:\dev\MIP\BudDetection\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\dev\MIP\BudDetection\bin\Debug\Glaukopis.Geometry.dll
+C:\dev\MIP\BudDetection\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\dev\MIP\BudDetection\bin\Debug\Glaukopis.Core.xml
+C:\dev\MIP\BudDetection\bin\Debug\Glaukopis.Geometry.xml
+C:\dev\MIP\BudDetection\obj\Debug\BudDetection.csproj.CoreCompileInputs.cache
+C:\dev\MIP\BudDetection\obj\Debug\BudDetection.csproj.CopyComplete
+C:\dev\MIP\BudDetection\obj\Debug\BudDetection.dll
+C:\dev\MIP\BudDetection\obj\Debug\BudDetection.pdb

@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Glaukopis.CognitionMasterIntegration</name>
+    </assembly>
+    <members>
+        <member name="T:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin">
+            <summary>
+            Erweiterung von <see cref="T:SharpAccessory.CognitionMaster.Plugging.Plugin"/>
+            </summary>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin.addLayer(SharpAccessory.Imaging.Segmentation.ObjectLayer,System.Boolean)">
+            <summary>
+            fügt den übergebenen <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> hinzu
+            </summary>
+            <param name="layer"><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/></param>
+            <param name="replaceLayerWithSameName">falls true werden vorhandene <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s mit gleichem Namen ersetzt</param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin.addLayer(System.Collections.Generic.IEnumerable{SharpAccessory.Imaging.Segmentation.ObjectLayer},System.Boolean)">
+            <summary>
+            fügt die übergebenen <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s hinzu
+            </summary>
+            <param name="layers"><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s</param>
+            <param name="replaceLayerWithSameName">falls true werden vorhandene <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s mit gleichem Namen ersetzt</param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin.replaceLayer(SharpAccessory.Imaging.Segmentation.ObjectLayer)">
+            <summary>
+            ersetzt die vorhandenen <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s durch den übergebenen
+            </summary>
+            <param name="layer"><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/></param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin.AddModifierKey(SharpAccessory.VisualComponents.MouseModifierKey)">
+            <summary>
+            fügt einen <see cref="T:SharpAccessory.VisualComponents.MouseModifierKey"/> hinzu
+            </summary>
+            <param name="modifierKey">hinzuzufügender <see cref="T:SharpAccessory.VisualComponents.MouseModifierKey"/></param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin.RemoveModifierKey(SharpAccessory.VisualComponents.MouseModifierKey)">
+            <summary>
+            entfernt einen <see cref="T:SharpAccessory.VisualComponents.MouseModifierKey"/>
+            </summary>
+            <param name="modifierKey">zu entfernender <see cref="T:SharpAccessory.VisualComponents.MouseModifierKey"/></param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin.getCurrentDpµm">
+            <summary>
+            liefert die aktuelle Auflösung der WSI-Ansicht in dpµm
+            </summary>
+            <returns>Auflösung in dpµm</returns>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin.getCurrentMeanDpµm">
+            <summary>
+            liefert die aktuelle Auflösung der WSI-Ansicht in dpµm, gemittelt über x und y
+            </summary>
+            <returns>Auflösung in dpµm</returns>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.GlaukopisPlugin.setDpµm(System.Single)">
+            <summary>
+            setzt die aktuelle Auflösung der WSI-Ansicht
+            </summary>
+            <param name="dpµm">Zielauflösung in dpµm</param>
+            <returns>Skalierung des WSIs bei der Zielauflösung</returns>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.HeatMapDisplay.resizeImage(System.Drawing.Image,System.Int32,System.Int32)">
+            <summary>
+            Resize the image to the specified width and height.
+            </summary>
+            <param name="image">The image to resize.</param>
+            <param name="width">The width to resize to.</param>
+            <param name="height">The height to resize to.</param>
+            <returns>The resized image.</returns>
+        </member>
+        <member name="F:Glaukopis.CognitionMasterIntegration.HeatMapDisplay.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.HeatMapDisplay.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.HeatMapDisplay.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Glaukopis.CognitionMasterIntegration.ImageBoxNavigatorExtensions">
+            <summary>
+            Erweiterung für <see cref="T:SharpAccessory.VisualComponents.ImageBoxNavigator"/>
+            </summary>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageBoxNavigatorExtensions.GetCurrentDpµm(SharpAccessory.VisualComponents.ImageBoxNavigator,SharpAccessory.CognitionMaster.WholeSlideImageSupport.IWholeSlideImageFile)">
+            <summary>
+            liefert die aktuelle Auflösung in dpµm
+            </summary>
+            <param name="navigator">Navigator</param>
+            <param name="wsi">WSI</param>
+            <returns>Auflösung in dpµm</returns>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageBoxNavigatorExtensions.SetDpµm(SharpAccessory.VisualComponents.ImageBoxNavigator,SharpAccessory.CognitionMaster.WholeSlideImageSupport.IWholeSlideImageFile,System.Single)">
+            <summary>
+            setzt die aktuelle Auflösung
+            </summary>
+            <param name="navigator">Navigator</param>
+            <param name="wsi">WSI</param>
+            <param name="dpµm">Zielauflösung in dpµm</param>
+            <returns>Skalierung des WSIs bei der Zielauflösung</returns>
+        </member>
+        <member name="T:Glaukopis.CognitionMasterIntegration.ImageListBox">
+            <summary>
+            GUI-Element für die Auflistung von Bildern im CognitionMaster
+            </summary>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageListBox.#ctor(System.Func{System.Drawing.Bitmap},System.Action{System.Drawing.Bitmap})">
+            <summary>
+            erzeugt das Element
+            </summary>
+            <param name="getDisplayedImage">Zugriff aud das aktuelle angezeigte Bild</param>
+            <param name="setDisplayedImage">Funktion zum Setzten des angezeigten Bildes</param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageListBox.Init(System.String)">
+            <summary>
+            initialisiert die Liste mit dem derzeit angezeigtem Bild als erstem Eintrag
+            </summary>
+            <param name="sourceImageName">Name für den ersten Eintrag (default:"source")</param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageListBox.Clear(System.Boolean)">
+            <summary>
+            leert die Liste
+            </summary>
+            <param name="disposeImages">wenn true, wird an den entfernten Bildern <see cref="M:System.IDisposable.Dispose"/> aufgerufen</param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageListBox.Add(System.Drawing.Bitmap,System.String)">
+            <summary>
+            fügt ein Bild der Liste hinzu
+            </summary>
+            <param name="image">Bild</param>
+            <param name="name">Name</param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageListBox.Set(System.Drawing.Bitmap,System.String)">
+            <summary>
+            ersetzt das Bild mit dem angegebenen Namen
+            </summary>
+            <param name="image">Bild</param>
+            <param name="name">Name</param>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageListBox.GetImage(System.String)">
+            <summary>
+            liefert das Bild mit dem angegebenen Namen
+            </summary>
+            <param name="name">falls leer, wird das erste Bild aus der Initialisierung geliefert</param>
+            <returns>Bild</returns>
+        </member>
+        <member name="P:Glaukopis.CognitionMasterIntegration.ImageListBox.SelectedImage">
+            <summary>
+            liefert das ausgewählte Bild
+            </summary>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.ImageListBox.GetImages">
+            <summary>
+            liefert alle Bilder in der Form [Bild,Name]
+            </summary>
+            <returns>Aufzählung der Bilder mit Namen</returns>
+        </member>
+        <member name="T:Glaukopis.CognitionMasterIntegration.IWholeSlideImageFileExtensions">
+            <summary>
+            Erweiterung für <see cref="T:SharpAccessory.CognitionMaster.WholeSlideImageSupport.IWholeSlideImageFile"/>
+            </summary>
+        </member>
+        <member name="F:Glaukopis.CognitionMasterIntegration.IWholeSlideImageFileExtensions.Dpi2Dpµm">
+            <summary>
+            liefert die Umrechnung von dpi zu dpµm
+            1 dpi = 0.393701 dot/cm
+            </summary>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.IWholeSlideImageFileExtensions.GetDpµm(SharpAccessory.CognitionMaster.WholeSlideImageSupport.IWholeSlideImageFile)">
+            <summary>
+            liefert die Auflösung des WSIs in dpµm
+            </summary>
+            <param name="wsi">WSI</param>
+            <returns>Auflösung in dpµm</returns>
+        </member>
+        <member name="T:Glaukopis.CognitionMasterIntegration.KeysDescription">
+            <summary>
+            liefert benutzerfreundliche Namen zu <see cref="T:System.Windows.Forms.Keys"/>
+            <source>http://stackoverflow.com/questions/9999604/pretty-key-names-in-c-sharp-forms</source>
+            </summary>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.KeysDescription.GetDescription(System.Windows.Forms.Keys)">
+            <summary>
+            liefert einen benutzerfreundlichen Namen zum übergebenen <see cref="T:System.Windows.Forms.Keys"/>
+            </summary>
+            <param name="key">fraglicher <see cref="T:System.Windows.Forms.Keys"/></param>
+            <returns>benutzerfreundlicher Name</returns>
+        </member>
+        <member name="T:Glaukopis.CognitionMasterIntegration.PictureBoxExtensions">
+            <summary>
+            Erweiterung für die <see cref="T:System.Windows.Forms.PictureBox"/> zur Koordinatenumrechnung
+            </summary>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.PictureBoxExtensions.GetImageCoordinates(System.Windows.Forms.PictureBox,System.Drawing.Point)">
+            <summary>
+            liefert die Bildkoordinate zu der übergebenen control-Koordinate
+            </summary>
+            <param name="pictureBox">control</param>
+            <param name="controlCoordinate">control-Koordinate (mouse-Koordinate)</param>
+            <returns>Bildkoordinate</returns>
+        </member>
+        <member name="M:Glaukopis.CognitionMasterIntegration.PictureBoxExtensions.translateZoomMousePosition(System.Windows.Forms.PictureBox,System.Drawing.Point)">
+            <summary>
+            liefert die Bildkoordinate zu der übergebenen control-Koordinate
+            </summary>
+            <param name="pictureBox">control</param>
+            <param name="controlCoordinate">control-Koordinate (mouse-Koordinate)</param>
+            <returns>Bildkoordinate</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,73 @@
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\SlideProccesor.exe.config
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\SlideProccesor.exe
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\SlideProccesor.pdb
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\#Accessory.Imaging.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\#AccessoryExtension.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\BudDetection.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\Glaukopis.Core.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\Glaukopis.DiscreteGeometry.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\Glaukopis.Geometry.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\Glaukopis.SlideProcessing.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\VMscope.InteropCore.DLL
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\#Accessory.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\#Accessory.CognitionMaster.exe
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\VMscope.VirtualSlideAccess.dll
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\BudDetection.pdb
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\Glaukopis.Core.xml
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\bin\Debug\Glaukopis.Geometry.xml
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\obj\Debug\SlideProccesor.csprojResolveAssemblyReference.cache
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\obj\Debug\SlideProccesor.exe
+Z:\Dokumente\MA\MIP\MIP\SlideProccesor\obj\Debug\SlideProccesor.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\SlideProccesor.exe.config
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\SlideProccesor.exe
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\SlideProccesor.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\#Accessory.Imaging.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\#AccessoryExtension.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\BudDetection.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\Glaukopis.Core.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\VMscope.InteropCore.DLL
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\#Accessory.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\#Accessory.CognitionMaster.exe
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\VMscope.VirtualSlideAccess.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\BudDetection.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\Glaukopis.Core.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\obj\Debug\SlideProccesor.csprojAssemblyReference.cache
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\obj\Debug\SlideProccesor.csproj.CoreCompileInputs.cache
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\obj\Debug\SlideProccesor.csproj.CopyComplete
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\obj\Debug\SlideProccesor.exe
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideProccesor\obj\Debug\SlideProccesor.pdb
+C:\dev\MIP\SlideProccesor\bin\Debug\SlideProccesor.exe.config
+C:\dev\MIP\SlideProccesor\bin\Debug\SlideProccesor.exe
+C:\dev\MIP\SlideProccesor\bin\Debug\SlideProccesor.pdb
+C:\dev\MIP\SlideProccesor\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\#Accessory.Imaging.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\#AccessoryExtension.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\BudDetection.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\Glaukopis.Core.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\Glaukopis.Geometry.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\VMscope.InteropCore.DLL
+C:\dev\MIP\SlideProccesor\bin\Debug\#Accessory.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\#Accessory.CognitionMaster.exe
+C:\dev\MIP\SlideProccesor\bin\Debug\VMscope.VirtualSlideAccess.dll
+C:\dev\MIP\SlideProccesor\bin\Debug\BudDetection.pdb
+C:\dev\MIP\SlideProccesor\bin\Debug\Glaukopis.Core.xml
+C:\dev\MIP\SlideProccesor\bin\Debug\Glaukopis.Geometry.xml
+C:\dev\MIP\SlideProccesor\obj\Debug\SlideProccesor.csprojAssemblyReference.cache
+C:\dev\MIP\SlideProccesor\obj\Debug\SlideProccesor.csproj.CoreCompileInputs.cache
+C:\dev\MIP\SlideProccesor\obj\Debug\SlideProccesor.csproj.CopyComplete
+C:\dev\MIP\SlideProccesor\obj\Debug\SlideProccesor.exe
+C:\dev\MIP\SlideProccesor\obj\Debug\SlideProccesor.pdb

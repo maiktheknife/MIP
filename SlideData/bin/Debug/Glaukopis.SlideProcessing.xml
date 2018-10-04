@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Glaukopis.SlideProcessing</name>
+    </assembly>
+    <members>
+        <member name="T:Glaukopis.SlideProcessing.IVirtualSlideExtensions">
+            <summary>
+            Eweiterung für <see cref="T:Glaukopis.SlideProcessing.IVirtualSlideExtensions"/>
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.IVirtualSlideExtensions.GetImagePart(VMscope.InteropCore.VirtualMicroscopy.IVirtualSlide,SharpAccessory.CognitionMaster.WholeSlideImageSupport.WsiRect)">
+            <summary>
+            liefert das Bild der Kachel
+            </summary>
+            <param name="slide">Slide</param>
+            <param name="tile">Kachel</param>
+            <returns>Bild</returns>
+        </member>
+        <member name="T:Glaukopis.SlideProcessing.LayerDescription">
+            <summary>
+            beschreibt eine Objektebene für Virtuelle Schnitte (üblicherweise eine Segmentierung)
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.Processing.#ctor(System.String)">
+            <summary>
+            erzeugt;
+            der Pfad zum Repository wird auf "C:\ProgramData\processingRepository\" festgelegt
+            </summary>
+            <param name="slideURI"></param>
+        </member>
+        <member name="T:Glaukopis.SlideProcessing.SlideCache">
+            <summary>
+            Dateisystem-Puffer für zu virtuellen Schnitten erzeugten Daten
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideCache.#ctor(System.String,System.String)">
+            <summary>
+            erzeugt den Puffer
+            </summary>
+            <param name="slideUrl">URL des virtuellen Schnittes</param>
+            <param name="repositoryPath">Pfad des Puffers</param>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideCache.#ctor(System.String)">
+            <summary>
+            erzeugt den Puffer; der Pfad des Puffers ist "C:\ProgramData\processingRepository\"
+            </summary>
+            <param name="slideUrl">URL des virtuellen Schnittes</param>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideCache.Slide">
+            <summary>
+            liefert den virtuellen Schnitt
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideCache.Dispose">
+            <summary>
+            gibt den <see cref="T:VMscope.InteropCore.VirtualMicroscopy.IVirtualSlide"/> frei
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.Util.GetSlideFilenames(System.String[])">
+            <summary>
+            TODO kommt mit ä nicht zurecht
+            </summary>
+            <param name="commandLineArguments"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Glaukopis.SlideProcessing.SlideDataProvider">
+            <summary>
+            stellt den Zugriff auf zusätzliche Daten zu Virtuellen Schnitten bereit (Annotationen, object layer(Segmentierungen), heat maps)
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.LayerDescriptions">
+            <summary>
+            enthält die Beschreibungen der verfügbaren object layer(Segmentierungen)
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayer(Glaukopis.SlideProcessing.LayerDescription,System.Drawing.RectangleF,System.Predicate{SharpAccessory.Imaging.Segmentation.ImageObject})">
+            <summary>
+            liefert einen bestimmten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich
+            </summary>
+            <param name="layerDescription">Beschreibung des angefragten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s</param>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="predicate">Prädikat für den Einschluss von Objekten, falls null werden alle eingeschlossen</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayer(Glaukopis.SlideProcessing.LayerDescription,System.Drawing.RectangleF,System.Drawing.Size,System.Predicate{SharpAccessory.Imaging.Segmentation.ImageObject})">
+            <summary>
+            liefert einen bestimmten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich, skaliert auf die Zielgröße
+            </summary>
+            <param name="layerDescription">Beschreibung des angefragten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s</param>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="targetSize">Zielgröße</param>
+            <param name="predicate">Prädikat für den Einschluss von Objekten, falls null werden alle eingeschlossen</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayer(Glaukopis.SlideProcessing.LayerDescription,System.Drawing.RectangleF,System.Drawing.PointF)">
+            <summary>
+            liefert einen bestimmten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich, skaliert auf die Zielauflösung
+            </summary>
+            <param name="layerDescription">Beschreibung des angefragten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s</param>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="resolution">Zielauflösung in dpµm</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayer(Glaukopis.SlideProcessing.LayerDescription,Glaukopis.SlideProcessing.ISlideTile)">
+            <summary>
+            liefert einen bestimmten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> zu einer Kachel
+            </summary>
+            <param name="layerDescription">Beschreibung des angefragten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s</param>
+            <param name="tile">Kachel</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für die Kachel</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayer(Glaukopis.SlideProcessing.LayerDescription,SharpAccessory.VisualComponents.ImageBoxNavigator,System.Predicate{SharpAccessory.Imaging.Segmentation.ImageObject})">
+            <summary>
+            liefert einen bestimmten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> zum angezeigten Bereich
+            </summary>
+            <param name="layerDescription">Beschreibung des angefragten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s</param>
+            <param name="navigator">angezeigter Bereich</param>
+            <param name="predicate">Prädikat für den Einschluss von Objekten, falls null werden alle eingeschlossen</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für die Kachel</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayer(Glaukopis.SlideProcessing.LayerDescription,System.Drawing.RectangleF,System.Single)">
+            <summary>
+            liefert einen bestimmten und skalierten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich
+            </summary>
+            <param name="layerDescription">Beschreibung des angefragten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s</param>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="zoom">Skalierungsfaktor</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayers(System.Drawing.RectangleF)">
+            <summary>
+            liefert alle <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayers(System.Drawing.RectangleF,System.Drawing.Size)">
+            <summary>
+            liefert alle <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich, skaliert auf die Zielgröße
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="targetSize">Zielgröße</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayers(System.Drawing.RectangleF,System.Drawing.PointF)">
+            <summary>
+            liefert alle <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich, skaliert auf die Zielauflösung
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="resolution">Zielauflösung in dpµm</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayers(Glaukopis.SlideProcessing.ISlideTile)">
+            <summary>
+            liefert alle <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s zu einer Kachel
+            </summary>
+            <param name="tile">Kachel</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für die Kachel</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayers(SharpAccessory.VisualComponents.ImageBoxNavigator)">
+            <summary>
+            liefert alle <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s zum angezeigten Bereich
+            </summary>
+            <param name="navigator">angezeigter Bereich</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für die Kachel</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetLayers(System.Drawing.RectangleF,System.Single)">
+            <summary>
+            liefert alle <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s skaliert für den angegebenen Bereich
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="zoom">Skalierungsfaktor</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.ScaleLayer(SharpAccessory.Imaging.Segmentation.ObjectLayer,System.Drawing.Size,System.String)">
+            <summary>
+            erstellt einen skalierten <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>
+            </summary>
+            <param name="layer">Eingabe</param>
+            <param name="targetSize">Größe der Ausgabe</param>
+            <param name="prefix">wird allen kopierten Merkmalen vorangesetzt</param>
+            <returns>Ausgabe</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetAnnotationLayers(System.Drawing.RectangleF,System.Drawing.Size,System.Predicate{Glaukopis.SlideProcessing.SlideDataProvider.Annotation})">
+            <summary>
+            liefert die Annotation die in dem angegebenen Bereich vorhanden sind projiziert auf <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s in der Zielgröße;
+            die Aufzählung ist leer wenn keine Annotation in dem angegebenen Bereich existieren;
+            sich überschneidende Annotation werden auf verschiedene <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> projiziert
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="targetSize">Zielgröße</param>
+            <param name="annotationPredicate">Filter für die Annotationen, wenn er false liefert wird die Annotation nicht berücksichtigt; wenn null werden alle Annotation berücksichtigt</param>
+            <returns>projizierte <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+            <author>Valeriia Zakhlieniuk</author>
+            <author>Sebastian Lohmann</author>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetAnnotationLayers(System.Drawing.RectangleF,System.Drawing.PointF,System.Predicate{Glaukopis.SlideProcessing.SlideDataProvider.Annotation})">
+            <summary>
+            liefert die Annotation die in dem angegebenen Bereich vorhanden sind projiziert auf <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s, skaliert auf die Zielauflösung;
+            die Aufzählung ist leer wenn keine Annotation in dem angegebenen Bereich existieren;
+            sich überschneidende Annotation werden auf verschiedene <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> projiziert
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="resolution">Zielauflösung</param>
+            <param name="annotationPredicate">Filter für die Annotationen, wenn er false liefert wird die Annotation nicht berücksichtigt; wenn null werden alle Annotation berücksichtigt</param>
+            <returns>projizierte <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetAnnotationLayers(Glaukopis.SlideProcessing.ISlideTile,System.Predicate{Glaukopis.SlideProcessing.SlideDataProvider.Annotation})">
+            <summary>
+            liefert die Annotation die auf der Kachel vorhanden sind projiziert auf <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s;
+            die Aufzählung ist leer wenn keine Annotation in dem angegebenen Bereich existieren;
+            sich überschneidende Annotation werden auf verschiedene <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> projiziert
+            </summary>
+            <param name="tile">Kachel</param>
+            <param name="annotationPredicate">Filter für die Annotationen, wenn er false liefert wird die Annotation nicht berücksichtigt; wenn null werden alle Annotation berücksichtigt</param>
+            <returns>projizierte <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetAnnotationLayers(SharpAccessory.VisualComponents.ImageBoxNavigator,System.Predicate{Glaukopis.SlideProcessing.SlideDataProvider.Annotation})">
+            <summary>
+            liefert die Annotation die in dem angezeigten Bereich vorhanden sind projiziert auf <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s;
+            die Aufzählung ist leer wenn keine Annotation in dem angegebenen Bereich existieren;
+            sich überschneidende Annotation werden auf verschiedene <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> projiziert
+            </summary>
+            <param name="navigator">angezeigter Bereich</param>
+            <param name="annotationPredicate">Filter für die Annotationen, wenn er false liefert wird die Annotation nicht berücksichtigt; wenn null werden alle Annotation berücksichtigt</param>
+            <returns>projizierte <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetAnnotationLayers(System.Drawing.RectangleF,System.Single,System.Predicate{Glaukopis.SlideProcessing.SlideDataProvider.Annotation})">
+            <summary>
+            liefert die Annotation die in dem angegebenen Bereich vorhanden sind projiziert auf <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s;
+            die Aufzählung ist leer wenn keine Annotation in dem angegebenen Bereich existieren;
+            sich überschneidende Annotation werden auf verschiedene <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> projiziert
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="zoom">Skalierungsfaktor</param>
+            <param name="annotationPredicate">Filter für die Annotationen, wenn er false liefert wird die Annotation nicht berücksichtigt; wenn null werden alle Annotation berücksichtigt</param>
+            <returns>projizierte <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="T:Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription">
+            <summary>
+            beschreibt eine heat map
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription.Bitmap">
+            <summary>
+            Bilddaten
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription.FileName">
+            <summary>
+            Dateiname
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescriptions">
+            <summary>
+            Auflistungen der heat maps für den Virtuellen Schnitt (&lt;Name,Bild,Dateiname&gt;)
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayer(Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription,System.Drawing.RectangleF,System.Drawing.Size)">
+            <summary>
+            liefert die heat map projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> in der Zielgröße
+            </summary>
+            <param name="heatMap">heat map</param>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="targetSize">Zielgröße</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayer(Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription,System.Drawing.RectangleF,System.Drawing.PointF)">
+            <summary>
+            liefert die heat map projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>, skaliert auf die Zielauflösung
+            </summary>
+            <param name="heatMap">heat map</param>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="resolution">Zielauflösung in dpµm</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayer(Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription,Glaukopis.SlideProcessing.ISlideTile)">
+            <summary>
+            liefert die heat map projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> zu einer Kachel
+            </summary>
+            <param name="heatMap">heat map</param>
+            <param name="tile">Kachel</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für die Kachel</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayer(Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription,SharpAccessory.VisualComponents.ImageBoxNavigator)">
+            <summary>
+            liefert die heat map projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> zum angezeigten Bereich
+            </summary>
+            <param name="heatMap">heat map</param>
+            <param name="navigator">angezeigter Bereich</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für die Kachel</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayer(Glaukopis.SlideProcessing.SlideDataProvider.HeatMapDescription,System.Drawing.RectangleF,System.Single)">
+            <summary>
+            liefert die heat map projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> zum angezeigten Bereich
+            </summary>
+            <param name="heatMap">heat map</param>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="zoom">Skalierungsfaktor</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayers(System.Drawing.RectangleF,System.Drawing.Size)">
+            <summary>
+            liefert die heat maps projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> in der Zielgröße
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="targetSize">Zielgröße</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayers(System.Drawing.RectangleF,System.Drawing.PointF)">
+            <summary>
+            liefert die heat maps projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>, skaliert auf die Zielauflösung
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="resolution">Zielauflösung in dpµm</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayers(Glaukopis.SlideProcessing.ISlideTile)">
+            <summary>
+            liefert die heat maps projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> zu einer Kachel
+            </summary>
+            <param name="tile">Kachel</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für die Kachel</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayers(SharpAccessory.VisualComponents.ImageBoxNavigator)">
+            <summary>
+            liefert die heat maps projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> zum angezeigten Bereich
+            </summary>
+            <param name="navigator">angezeigter Bereich</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für die Kachel</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.GetHeatMapLayers(System.Drawing.RectangleF,System.Single)">
+            <summary>
+            liefert die heat maps projiziert auf den <see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/> zum angezeigten Bereich
+            </summary>
+            <param name="srcRectangle">angefragter Bereich, definiert auf dem base layer des Virtuellen Schnitts</param>
+            <param name="zoom">Skalierungsfaktor</param>
+            <returns><see cref="T:SharpAccessory.Imaging.Segmentation.ObjectLayer"/>s für den angegebenen Bereich</returns>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.#ctor(VMscope.InteropCore.VirtualMicroscopy.IVirtualSlide,Glaukopis.SlideProcessing.SlideCache)">
+            <summary>
+            erzeugt den <see cref="T:Glaukopis.SlideProcessing.SlideDataProvider"/>
+            </summary>
+            <param name="slide">Virtueller Schnitt</param>
+            <param name="slideCache">Dateisystempuffer zum Virtuellen Schnitt</param>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.#ctor(Glaukopis.SlideProcessing.SlideCache)">
+            <summary>
+            erzeugt den <see cref="T:Glaukopis.SlideProcessing.SlideDataProvider"/>
+            </summary>
+            <param name="slideCache">Dateisystempuffer zum Virtuellen Schnitt</param>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.#ctor(SharpAccessory.CognitionMaster.WholeSlideImageSupport.IWholeSlideImageFile,Glaukopis.SlideProcessing.SlideCache)">
+            <summary>
+            erzeugt den <see cref="T:Glaukopis.SlideProcessing.SlideDataProvider"/>
+            </summary>
+            <param name="slide">Virtueller Schnitt</param>
+            <param name="slideCache">Dateisystempuffer zum Virtuellen Schnitt</param>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Dpµm">
+            <summary>
+            Auflösung des Virtuellen Schnitts in Pixeln per Mikrometer
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Size">
+            <summary>
+            Größe des Virtuellen Schnitts in Pixeln
+            </summary>
+        </member>
+        <member name="T:Glaukopis.SlideProcessing.SlideDataProvider.Annotation">
+            <summary>
+            Klasse für die (auswertbaren) Annotationen
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Annotation.Points">
+            <summary>
+            Punkte der Annotation
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Annotation.Id">
+            <summary>
+            Id der Annotation
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Annotation.Name">
+            <summary>
+            Bezeichnung der Annotation
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Annotation.Color">
+            <summary>
+            Farbe der Annotation
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Annotation.Creator">
+            <summary>
+            Erzeuger der Annotation
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Annotation.BoundingBox">
+            <summary>
+            achsenparallele bounding box der Annotation
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideDataProvider.Annotations">
+            <summary>
+            Auflistungen der (auswertbaren) Annotationen auf dem Virtuellen Schnitt
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.SlideDataProvider.Dispose">
+            <summary>
+            Implementierung von <see cref="M:System.IDisposable.Dispose"/>
+            </summary>
+        </member>
+        <member name="P:Glaukopis.SlideProcessing.SlideLayerHelper.LayerDescriptions">
+            <summary>
+            enthält die Beschreibungen der verfügbaren object layer(Segmentierungen)
+            </summary>
+        </member>
+        <member name="T:Glaukopis.SlideProcessing.TiledProcessInformationExtensions">
+            <summary>
+            Erweiterung für TiledProcessInformation
+            </summary>
+        </member>
+        <member name="M:Glaukopis.SlideProcessing.TiledProcessInformationExtensions.SaveData``1(SharpAccessory.VirtualMicroscopy.TiledProcessInformation{``0},System.String)">
+            <summary>
+            speichert die Daten in eine deutsche csv-Datei
+            </summary>
+            <typeparam name="T">Datentyp</typeparam>
+            <param name="tpi">TiledProcessInformation</param>
+            <param name="fileName">Dateiname, .csv wird angehangen</param>
+        </member>
+    </members>
+</doc>

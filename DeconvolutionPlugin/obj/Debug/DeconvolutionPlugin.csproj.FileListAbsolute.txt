@@ -1,0 +1,44 @@
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.pdb
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\#AccessoryExtension.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.DiscreteGeometry.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SlideProcessing.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.xml
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.xml
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.dll
+Z:\Dokumente\MA\MIP\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\#AccessoryExtension.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csproj.CoreCompileInputs.cache
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csproj.CopyComplete
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.pdb
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.dll
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\DeconvolutionPlugin.pdb
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\#AccessoryExtension.dll
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.dll
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.dll
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Core.xml
+C:\dev\MIP\DeconvolutionPlugin\bin\Debug\Glaukopis.Geometry.xml
+C:\dev\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csproj.CoreCompileInputs.cache
+C:\dev\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csproj.CopyComplete
+C:\dev\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.dll
+C:\dev\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csprojAssemblyReference.cache

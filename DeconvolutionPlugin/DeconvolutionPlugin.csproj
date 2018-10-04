@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1575AE54-D4CB-44E8-89CE-A2905C79798F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DeconvolutionPlugin</RootNamespace>
+    <AssemblyName>DeconvolutionPlugin</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="#Accessory">
+      <HintPath>..\dlls\#Accessory.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="#Accessory.CognitionMaster">
+      <HintPath>..\dlls\#Accessory.CognitionMaster.exe</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="#Accessory.CognitionMaster.WholeSlideImageSupport, Version=1.12.5977.23128, Culture=neutral, PublicKeyToken=730b5e130170c06c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\dlls\#Accessory.CognitionMaster.WholeSlideImageSupport.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="#Accessory.Imaging">
+      <HintPath>..\dlls\#Accessory.Imaging.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="#AccessoryExtension">
+      <HintPath>..\dlls\#AccessoryExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="Glaukopis.CognitionMasterIntegration">
+      <HintPath>..\dlls\Glaukopis.CognitionMasterIntegration.dll</HintPath>
+    </Reference>
+    <Reference Include="Glaukopis.Core">
+      <HintPath>..\dlls\Glaukopis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Glaukopis.DiscreteGeometry">
+      <HintPath>..\dlls\Glaukopis.DiscreteGeometry.dll</HintPath>
+    </Reference>
+    <Reference Include="Glaukopis.Geometry">
+      <HintPath>..\dlls\Glaukopis.Geometry.dll</HintPath>
+    </Reference>
+    <Reference Include="Glaukopis.SharpAccessoryIntegration">
+      <HintPath>..\dlls\Glaukopis.SharpAccessoryIntegration.dll</HintPath>
+    </Reference>
+    <Reference Include="Glaukopis.SlideProcessing">
+      <HintPath>..\dlls\Glaukopis.SlideProcessing.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DeconvolutionPlugin.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy /Y "$(TargetDir)\*.dll" C:\ProgramData\#Accessory\CognitionMaster\Plugins\*</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

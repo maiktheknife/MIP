@@ -1,0 +1,76 @@
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.exe.config
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.exe
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.pdb
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.DefaultPlugins.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.exe
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\#Accessory.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\#Accessory.Imaging.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\#AccessoryExtension.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\BudDetection.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Core.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.DiscreteGeometry.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Geometry.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.SlideProcessing.dll
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\VMscope.InteropCore.DLL
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\VMscope.VirtualSlideAccess.DLL
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\BudDetection.pdb
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Core.xml
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Geometry.xml
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.csprojResolveAssemblyReference.cache
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.exe
+Z:\Dokumente\MA\MIP\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.csprojAssemblyReference.cache
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.csproj.CoreCompileInputs.cache
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.exe.config
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.exe
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.pdb
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.DefaultPlugins.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.exe
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\#Accessory.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\#Accessory.Imaging.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\#AccessoryExtension.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\BudDetection.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Core.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Geometry.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\VMscope.InteropCore.DLL
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\VMscope.VirtualSlideAccess.DLL
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\BudDetection.pdb
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Core.xml
+C:\dev\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Geometry.xml
+C:\dev\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.csprojAssemblyReference.cache
+C:\dev\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.csproj.CoreCompileInputs.cache
+C:\dev\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.csproj.CopyComplete
+C:\dev\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.exe
+C:\dev\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.exe.config
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.exe
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\BudDetectionProccesor.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.DefaultPlugins.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.exe
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\#Accessory.CognitionMaster.WholeSlideImageSupport.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\#Accessory.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\#Accessory.Imaging.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\#AccessoryExtension.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\BudDetection.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.CognitionMasterIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Core.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.DiscreteGeometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Geometry.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.SlideProcessing.dll
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\VMscope.InteropCore.DLL
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\VMscope.VirtualSlideAccess.DLL
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\BudDetection.pdb
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Core.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.csproj.CopyComplete
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.exe
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetectionProccesor\obj\Debug\BudDetectionProccesor.pdb
