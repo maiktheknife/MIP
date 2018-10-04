@@ -77,4 +77,3 @@ C:\dev\MIP\SlideData\obj\Debug\SlideData.csproj.CoreCompileInputs.cache
 C:\dev\MIP\SlideData\obj\Debug\SlideData.csproj.CopyComplete
 C:\dev\MIP\SlideData\obj\Debug\Glaukopis.CognitionMasterPlugins.SlideData.dll
 C:\dev\MIP\SlideData\obj\Debug\Glaukopis.CognitionMasterPlugins.SlideData.pdb
-C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\SlideData\obj\Debug\SlideData.csprojAssemblyReference.cache

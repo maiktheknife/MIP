@@ -19,6 +19,7 @@ C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Deb
 C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.SharpAccessoryIntegration.dll
 C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.Core.xml
 C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\bin\Debug\Glaukopis.Geometry.xml
+C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\obj\Debug\BudDetection.csprojAssemblyReference.cache
 C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\obj\Debug\BudDetection.csproj.CoreCompileInputs.cache
 C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\obj\Debug\BudDetection.csproj.CopyComplete
 C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\BudDetection\obj\Debug\BudDetection.dll

@@ -41,4 +41,3 @@ C:\dev\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csproj.CoreCompileI
 C:\dev\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csproj.CopyComplete
 C:\dev\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.dll
 C:\dev\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.pdb
-C:\Users\menzel\Google Drive\HTW - AI\MA\S02\MIP\Übung\MIP\DeconvolutionPlugin\obj\Debug\DeconvolutionPlugin.csprojAssemblyReference.cache

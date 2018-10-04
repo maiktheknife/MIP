@@ -17,7 +17,7 @@ namespace SlideProccesor {
                 using (var slideCache=new SlideCache(slideName)){
                     // Skalierung des Bildes
                     var scale = 0.5f; // 0.1
-					var tileSize = 500; // 100
+					var tileSize = 100; // 100
 
                     // Partionierung und speichern
                     var slidePartitionerFileName =slideCache.DataPath+"BudDetection.Tissue.xml";
